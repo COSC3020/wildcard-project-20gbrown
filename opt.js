@@ -1,5 +1,6 @@
 //opt.js
 
+//used ChatGPT do fix my original PriorityQueue
 class PriorityQueue {
     constructor() {
         this.heap = [];
